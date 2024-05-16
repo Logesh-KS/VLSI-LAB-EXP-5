@@ -87,7 +87,7 @@ end
 endmodule
 ~~~
 
-OUTPUT:
+**OUTPUT:**
 
 ![image](https://github.com/Logesh-KS/VLSI-LAB-EXP-5/assets/113246318/f8b4a3f0-27c4-4909-b2e5-2103612871b7)
 

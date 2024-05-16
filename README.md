@@ -1,12 +1,12 @@
 # VLSI-LAB-EXP-5
-SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+**SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE**
 
-AIM: To simulate and synthesis finite state machine using Xilinx ISE.
+**AIM:** To simulate and synthesis finite state machine using Xilinx ISE.
 
-APPARATUS REQUIRED: 
+**APPARATUS REQUIRED:** 
 vivado 2023.3
 
-PROCEDURE: 
+**PROCEDURE:** 
 STEP:1 Start the Xilinx navigator, Select and Name the New project.
 STEP:2 Select the device family, device, package and speed. 
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type. 
@@ -20,12 +20,12 @@ STEP:10 Double click on the Implement Design and double click on the Generate Pr
 STEP:11 On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 STEP:12 Load the Bit file into the SPARTAN 6 FPGA 
 
-Logic Diagram :
+**Logic Diagram :**
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-VERILOG CODE:
+**VERILOG CODE:**
 ~~~
 
 module Sequence_Detector_Moore(clock,reset,sequence_in,detector_out);
@@ -91,7 +91,7 @@ OUTPUT:
 ![image](https://github.com/Logesh-KS/VLSI-LAB-EXP-5/assets/113246318/f8b4a3f0-27c4-4909-b2e5-2103612871b7)
 
 
-RESULT:
+**RESULT:**
 Thus the simulate and synthesis finite state machine using vivado2023.3 is verified.
 
 
